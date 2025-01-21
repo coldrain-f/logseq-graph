@@ -420,5 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-whiteboards? false
- :feature/enable-journals? false
- :default-home {:page "Logseq graph"}}
+ :feature/enable-journals? true}
