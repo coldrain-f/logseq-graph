@@ -11,6 +11,7 @@ deck:: 🌐 Logseq graph/📂 Computer Science/📂 프로그래밍/📖 JavaScr
 	  Array [2, 4, 6]
 	  ```
 - 다음 코드에서 배열의 map() 함수를 사용하여 `items` 배열을 [1, 2, 3]으로 변환하는 방법은? #card
+  id:: 678f3b98-a9b8-4024-a6f8-16c8e1084abc
   ```javascript
   const items = [{ no: 1 }, { no: 2 }, { no: 3}]
   const result = // ?
