@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["home" "Logseq graph"]
+ :favorites ["Logseq graph"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -421,5 +421,4 @@
  :file/name-format :triple-lowbar
  :feature/enable-whiteboards? false
  :feature/enable-journals? false
- :default-home {:page "Home"}
- :feature/enable-flashcards? false}
+ :default-home {:page "Logseq graph"}}
