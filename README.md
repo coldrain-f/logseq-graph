@@ -20,7 +20,6 @@
 - `#card` - 기본 카드
 - `#card #reverse` - 양방향 카드
 - `#card #incremental` - 증분식 카드
--
 - ## 🔄 동기화
   
   이 graph는 Git을 통해 관리되며, Logseq의 기본 Git 기능을 사용해 자동으로 동기화됩니다.
