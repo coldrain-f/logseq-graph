@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Logseq graph"]
+ :favorites ["Logseq graph" "수학"]
 
  ;; Set flashcards interval.
  ;; Expected value:
