@@ -1,4 +1,4 @@
-- deck* 🌐 Logseq graph/📂 수학/📖 수학 리부트
+- deck: 🌐 Logseq graph/📂 수학/📖 수학 리부트
 - 명제란? #card
   id:: 67bc5cd0-2a08-41e9-a2c8-04b3c1f31440
 	- 참인지 거짓인지 판별할 수 있는 문장이나 수식을 말한다.
