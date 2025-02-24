@@ -1,6 +1,5 @@
 # Anki Decks
-	- [[Logseq graph/Computer Science/프로그래밍/JavaScript]]
-	  [[Logseq graph/Computer Science/프로그래밍/JPA]]
+	- [[Logseq graph/수학/수학 리부트]]
 -
 - # Templates
 	- Anki Deck 생성 템플릿
