@@ -20,12 +20,14 @@ deck:: 🌐 Logseq graph/📂 수학/📖 수학 리부트
 - 항상 참인 명제를 무엇이라 하는가? #card
   id:: 67bc5cd0-a910-4f06-98cd-68c8efe82e9f
 	- 항진명제
+	  
 	  #+BEGIN_EXTRA
 	  예) $P \vee \neg P$
 	  #+END_EXTRA
 - 항상 거짓인 명제를 무엇이라 하는가? #card
   id:: 67bc5cd0-6ce4-441c-b594-99b6f5c8831e
 	- 모순명제
+	  
 	  #+BEGIN_EXTRA
 	  예) $P \wedge \neg P$
 	  #+END_EXTRA
