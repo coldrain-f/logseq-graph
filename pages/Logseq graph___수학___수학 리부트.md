@@ -56,3 +56,4 @@ deck:: 🌐 Logseq graph/📂 수학/📖 수학 리부트
 - 명제에서 분배 법칙이란? #card #incremental
 	- $p \vee (q \wedge r) \equiv (p \vee q) \wedge (p \vee r)$
 	- $p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$
+-
