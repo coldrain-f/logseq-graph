@@ -52,4 +52,5 @@ deck:: 🌐 Logseq graph/📂 수학/📖 수학 리부트
 	- $p \wedge  q \equiv q \wedge p$
 - 명제에서 결합 법칙이란? #card #incremental
 	- $(p \vee  q) \vee r \equiv p \vee (q \vee r)$
+	- $(p \wedge  q) \wedge r \equiv p \wedge (q \wedge r)$
 -
