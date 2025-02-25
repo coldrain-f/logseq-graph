@@ -58,3 +58,5 @@ deck:: 🌐 Logseq graph/📂 수학/📖 수학 리부트
 	- $p \wedge (q \vee r) \equiv (p \wedge q) \vee (p \wedge r)$
 - 명제의 분배 법칙과 숫자 연산의 분배 법칙의 차이점은? #card
 	- 숫자 연산은 $a(b+c)$는 성립하지만 $a+(b*c)$는 성립하지 않는다.
+	  하지만 명제의 분배 법칙은 $p \vee (q \wedge r)$도 성립하고 $p \wedge (q \vee r)$도 성립한다.
+-
