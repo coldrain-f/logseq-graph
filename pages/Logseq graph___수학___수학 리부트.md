@@ -50,3 +50,5 @@ deck:: 🌐 Logseq graph/📂 수학/📖 수학 리부트
   id:: 67bc5cd0-dbf6-4986-b946-8dca1dc04c4b
 	- $p \vee  q \equiv q \vee p$
 	- $p \wedge  q \equiv q \wedge p$
+- 명제에서 결합 법칙이란? #card #incremental
+	-
